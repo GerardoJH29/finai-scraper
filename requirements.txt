@@ -1,0 +1,11 @@
+beautifulsoup4
+requests
+pdfminer.six
+sqlalchemy
+apscheduler
+python-slugify
+fastapi
+uvicorn
+pytest
+vcrpy
+pytest-mock
